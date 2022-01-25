@@ -1,16 +1,17 @@
 # Ex1-Website
+
 ## The Video Assignment for HTML Website.
 
 ### Website Link: <a href="https://iamabhi9v.github.io/Ex1-Website/">Ex1-Website</a>
 
-### Screenshot: ``` Home Page ```
+### Screenshot: `Home Page`
 
 <div>
-<img src="screenshots/Sample.png">
+<img src="screenshots/Home_Page.png">
 </div>
 
-### ``` My Blog Website ```
+### `My Blog Website`
 
 <div>
-<img src="screenshots/My Blog Website.png">
+<img src="screenshots/My_Blog_Website.png">
 </div>
