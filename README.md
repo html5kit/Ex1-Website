@@ -2,8 +2,6 @@
 
 ## The Video Assignment for HTML Website.
 
-### Website Link: <a href="https://iamabhi9v.github.io/Ex1-Website/">Ex1-Website</a>
-
 ### Screenshot: `Home Page`
 
 <div>
